@@ -4,9 +4,9 @@ Daily DSA practice on LeetCode.
 
 ## 📊 Stats
 
-- **Total Questions Solved:** 9
-- **Current Streak:** 8
-- **Last Updated:** 07/09/2026
+- **Total Questions Solved:** 10
+- **Current Streak:** 9
+- **Last Updated:** 11/09/2026
 
 ## 🔗 LeetCode Profile
 
